@@ -1,0 +1,17 @@
+---
+title: "Abelhas e vespas como indicadores ambientais"
+author: "Marília Melo Favalesso"
+output: html_document
+---
+
+# Introdução
+
+As  principais  vantagens  do  emprego  de abelhas e vespas como bioindicadoras ambiental está na ampla riqueza e abundância de seus indivíduos, no ciclo de vida curto, na fácil amostragem desses grupos, em sua fidelidade ecológica, no fornecimento de  serviços  ecológicos  essenciais,  na  relativa facilidade na identificação de gêneros e espécies, e com uma mudança na composição de suas espécies concomitante às mudanças mais pronunciadas das comunidades  vegetais,  sendo  assim  utilizadas como bioindicadores ecológicos (...). 
+
+# Métodos
+
+# Resultados
+
+# Discussão
+
+# Conclusão
